@@ -22,5 +22,4 @@ Each guide is organized into a separate directory and includes all the necessary
 ## Usage
 
 To use the guides in this repository, simply clone the repository or download the individual guide directories that interest you. 
-Each guide includes a README file with instructions on how to use the code and run the examples. 
-Some guides may require additional packages or libraries, which will be listed in the README file.
+Some guides may require additional packages or libraries.
